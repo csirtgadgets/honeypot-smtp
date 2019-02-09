@@ -1,0 +1,3 @@
+csirtgsdk==1.1.1
+aiosmtpd
+chardet
